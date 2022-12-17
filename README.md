@@ -24,3 +24,8 @@
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+
+<br/>
+
+ThresholdAnalysis.py: 可找出提取照片亮星時的適當閾值   
+TFMain.ipynb: 以Google Colab建立 主要訓練CNN與處理照片的檔案 可分區塊執行
